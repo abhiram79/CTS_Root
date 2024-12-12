@@ -1,5 +1,9 @@
-# CIRCLE TO SEARCH ENABLER MODULE
+### CIRCLE TO SEARCH ENABLER MODULE
 ### Magisk , Kernel SU , Apatch
+
+
+
+
 
 
 # Installantion
